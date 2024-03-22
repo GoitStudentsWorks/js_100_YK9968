@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/mom-i-and-it-js/",
+    "build": "vite build --base=/js_100_YK9968/",
     "preview": "vite preview"
   },
   "devDependencies": {
